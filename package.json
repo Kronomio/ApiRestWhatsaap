@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "npx  tsm  ./src/app.ts",
-    "test": "test"
+    "test": "test",
+    "start":"node src/app.ts"
   },
   "keywords": [],
   "author": "Cristian López",
